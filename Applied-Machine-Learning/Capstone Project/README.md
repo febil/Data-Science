@@ -18,3 +18,17 @@ An understanding of the relationship between climate and dengue dynamics can imp
 ## More Information
 The data for this competition comes from multiple sources aimed at supporting the Predict the Next Pandemic Initiative. Dengue surveillance data is provided by the U.S. Centers for Disease Control and prevention, as well as the Department of Defense's Naval Medical Research Unit 6 and the Armed Forces Health Surveillance Center, in collaboration with the Peruvian government and U.S. universities. Environmental and climate data is provided by the National Oceanic and Atmospheric Administration (NOAA), an agency of the U.S. Department of Commerce.
 
+# Notebooks details are shown below:
+
+* `1 - DataCleaning_EDA_FeatureEngineering.ipynb` - Cleaning, fill in missing values, feature exploration.
+
+* `2 - Dengue_LinearRegression.ipynb` - Linear Regression, Lasso, Ridge.
+
+* `3 - NegativeBinomialAndPoissonModel.ipynb - Negative Binomial and Poisson Model
+
+* `4 - RandomForest_model.ipynb` - RandomForest model for monthly split data
+
+* `5 - XGBoost_model.ipynb` - XGBoost model for monthly split data.
+
+* `6 - An ensemble prediction approach to weekly Dengue cases forecasting based on weather conditions.ipynb` - The solution code for my best performing model. Ensemble of NB, Random Forest & XGBoost
+
