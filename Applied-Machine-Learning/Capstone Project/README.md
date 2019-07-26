@@ -20,15 +20,15 @@ The data for this competition comes from multiple sources aimed at supporting th
 
 # Notebooks details are shown below:
 
-* `1 - DataCleaning_EDA_FeatureEngineering.ipynb` - Cleaning, fill in missing values, feature exploration.
+* `1 - 10_DataCleaning_EDA_FeatureEngineering.ipynb` - Cleaning, fill in missing values, visualization, feature exploration.
 
-* `2 - Dengue_LinearRegression.ipynb` - Linear Regression, Lasso, Ridge.
+* `2 - 11_Dengue_LinearRegression.ipynb` - Linear Regression, Lasso, Ridge.
 
-* `3 - NegativeBinomialAndPoissonModel.ipynb - Negative Binomial and Poisson Model
+* `3 - 12_NegativeBinomialAndPoissonModel.ipynb - Negative Binomial and Poisson Model
 
-* `4 - RandomForest_model.ipynb` - RandomForest model for monthly split data
+* `4 - 13_RandomForest_model.ipynb` - RandomForest model for monthly split data
 
-* `5 - XGBoost_model.ipynb` - XGBoost model for monthly split data.
+* `5 - 14_XGBoost_model.ipynb` - XGBoost model for monthly split data.
 
-* `6 - An ensemble prediction approach to weekly Dengue cases forecasting based on weather conditions.ipynb` - The solution code for my best performing model. Ensemble of NB, Random Forest & XGBoost
+* `6 - 20_An ensemble prediction approach to weekly Dengue cases forecasting based on weather conditions.ipynb` - Starting data analuysis, EDA, modeling file. Later its splitted to 10 - 16 files.
 
