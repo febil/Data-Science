@@ -30,5 +30,9 @@ The data for this competition comes from multiple sources aimed at supporting th
 
 * `5 - 14_XGBoost_model.ipynb` - XGBoost model for monthly split data.
 
-* `6 - 20_An ensemble prediction approach to weekly Dengue cases forecasting based on weather conditions.ipynb` - Starting data analuysis, EDA, modeling file. Later its splitted to 10 - 16 files.
+* `6 - 20_A stacking ensemble prediction approach to weekly Dengue cases forecasting based on weather conditions` - Stacking ensemble using Linear Regression, NB, RF and XGB.
+* `7 - 21_A stacking ensemble prediction approach using monthwise data split` - Same ensemble model used but data sets are monthly splitted.
+* '8 - Inital File for basic understanding and rough work
+
+  
 
